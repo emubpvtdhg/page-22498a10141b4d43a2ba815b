@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--net-wt5f904w.com/sitemap.xml

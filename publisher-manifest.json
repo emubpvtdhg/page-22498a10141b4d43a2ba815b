@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d0cfc46f64496b5e4d399f16",
+  "owner": "emubpvtdhg",
+  "repo": "page-22498a10141b4d43a2ba815b",
+  "title": "灯塔",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "22498a10141b4d43a2ba815b",
+      "a": "灯塔",
+      "b": "2027最新官网",
+      "entity": "灯塔",
+      "brand": "灯塔",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8d93b437f6a71eac18a4440eab62ee033b000e36a72d2bf9055bf0bf435c852e",
+      "content": {
+        "primary_entity": "灯塔",
+        "keyword1": "灯塔",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS、Android 与路由器按需选择对应客户端，订阅导入后即可统一管理节点。",
+          "AI_CLIENTS_TITLE": "客户端适配",
+          "AI_CLOSING_TEXT": "先明确设备数量与流量需求，再从基础版、旗舰版与团队版中锁定适合的周期。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_DESCRIPTION": "，灯塔提供基础版、旗舰版、团队版三档订阅，月付分别为 ¥15、¥35、¥85，年付仅需 ¥150、¥350、¥850。基础版每月 100GB 流量支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，含全节点原生流媒体解锁与 IPLC 专线游戏加速优化；团队版每月 1000GB、支持 20 台设备，配备 VIP 专属高带宽节点与企业定制路由。选定套餐后，按 Windows、macOS、iOS、Android 或路由器客户端文档配置订阅即可使用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个维度出发，快速判断适合自己的灯塔套餐。",
+          "AI_FEATURES_TITLE": "功能与套餐要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 3 台以内设备与每月 100GB 轻度使用；旗舰版适合 5 台设备与每月 300GB 用量。",
+          "AI_FEATURE_TEXT_2": "旗舰版覆盖全节点原生流媒体解锁与 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持月付与年付，年付价格分别为 ¥150、¥350、¥850，按年订阅更省心。",
+          "AI_FEATURE_TITLE_1": "设备规模",
+          "AI_FEATURE_TITLE_2": "线路权益",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置，三步即可开始使用灯塔。",
+          "AI_GUIDE_TITLE": "使用路径",
+          "AI_HERO_INTRO": "灯塔为跨区域访问提供基础版、旗舰版与团队版三档订阅，覆盖 3 至 20 台设备与每月 100GB 至 1000GB 流量，可按月或按年选择。",
+          "AI_HERO_SUBTITLE": "灯塔订阅，按需匹配设备与流量",
+          "AI_HIGHLIGHT_1": "三档套餐按月付 ¥15 起",
+          "AI_HIGHLIGHT_2": "最高支持 20 台设备在线",
+          "AI_HIGHLIGHT_3": "年付价格为月付的十倍档位",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认常用设备数量与每月流量需求，对照三档套餐的额度与权益确定订阅档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐对设备类型与客户端版本的要求，确认当前系统满足配置条件。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅信息，完成节点选择与连接设置后即可使用。",
+          "AI_STEP_TITLE_1": "确认需求",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "灯塔订阅方案",
+          "AI_FAQ_ANSWER_1": "根据同时在线设备数和每月流量选择。单人手机加电脑选基础版，多设备追剧或游戏可选旗舰版，团队办公适合团队版。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出后可升级套餐或停用部分设备。",
+          "AI_FAQ_ANSWER_3": "在客户端中粘贴订阅链接或扫描二维码，保存后更新节点列表即可。具体步骤以对应客户端文档为准。",
+          "AI_FAQ_ANSWER_4": "基础版解锁基础流媒体，旗舰版与团队版支持全节点原生流媒体解锁，实际效果受节点和网络环境影响。",
+          "AI_FAQ_ANSWER_5": "支持手机、电脑和平板等常见系统。请根据设备系统在客户端页面选择对应版本，导入订阅配置后使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何选择适合自己的灯塔套餐？",
+          "AI_FAQ_QUESTION_2": "套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "订阅配置导入客户端的步骤是什么？",
+          "AI_FAQ_QUESTION_4": "哪些套餐支持流媒体解锁？",
+          "AI_FAQ_QUESTION_5": "支持哪些设备系统？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--net-wt5f904w.com",
+    "host": "xn--net-wt5f904w.com"
+  },
+  "file_hashes": {
+    "index.html": "f3fe0165f8ab029cff89cda035a5c521e19074e41492787db58aa50f6c5ae0a7",
+    "sitemap.xml": "808485e0d7b33595801a8c436e15626aa0f49f9e4609bc7bbd14f4e121cd2ead",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4762437d338c38f7e14429750bb86802968d921780f7bb45fb373541b198211d",
+    "robots.txt": "8746faa7ff59e5d88e603a59b75cd4bc740929910505850821d48afa6bafcd2c",
+    "255148b552aed0a68333584d7105f28e.txt": "9c4cf5bfa405bc64ad10a7b5bb141fc49947e091846392e32e9c6bdce32b37af"
+  },
+  "revision": "9ca68b7ddf13992d1d2434c0fac5ff88e6c7b61d3069f4de1a2f6bee6e95d5bb"
+}
